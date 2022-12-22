@@ -3,4 +3,4 @@
 
 Công cụ gồm 2 phần:
   * Agent là 1 project Android
-  * Server là 1 project Java.
+  * Server là 1 project Java
