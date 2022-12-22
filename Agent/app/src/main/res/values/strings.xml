@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Satrans</string>
+    <string name="welcome">Chào mừng bạn đến với</string>
+    <string name="status">Trạng thái</string>
+    <string name="time">Thời gian</string>
+    <string name="transmission_is_protected">Đường truyền đang được bảo vệ</string>
+    <string name="transmission_is_not_protect">Đường truyền không được bảo vệ</string>
+    <string name="disconnected">Không kết nối</string>
+    <string name="connecting">Đang kết nối...</string>
+    <string name="connected">Đã kết nối</string>
+    <string name="disconnecting">Đang ngắt kết nối...</string>
+
+</resources>

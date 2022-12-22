@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+option optimize_for = SPEED;
+
+message packet {
+  optional string id = 1;
+  optional bytes content = 2;
+}
