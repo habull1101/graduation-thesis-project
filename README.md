@@ -1,5 +1,3 @@
-# graduation-thesis-project
-
 # Project đồ án tốt nghiệp PTIT 
 ## Công cụ bảo vệ đường truyền cho các ứng dụng trên hệ điều hành Android
 
